@@ -8,7 +8,7 @@ all what this script does is faking the os and make it as ubuntu for this script
 which really works
 
 
-to run this script : /n
+to run this script :
 1 ) put it in "/Veil/setup"
 2 ) run this command "chmod +x setup"
 3 ) run the script "./Veilelementaryos.sh"
